@@ -1,0 +1,15 @@
+D:\C#\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.csproj.AssemblyReference.cache
+D:\C#\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.AssemblyInfoInputs.cache
+D:\C#\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.AssemblyInfo.cs
+D:\C#\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.csproj.CoreCompileInputs.cache
+D:\C#\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\net6.0\CabInvoiceGenerator.exe
+D:\C#\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\net6.0\CabInvoiceGenerator.deps.json
+D:\C#\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\net6.0\CabInvoiceGenerator.runtimeconfig.json
+D:\C#\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\net6.0\CabInvoiceGenerator.dll
+D:\C#\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\net6.0\CabInvoiceGenerator.pdb
+D:\C#\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.dll
+D:\C#\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\refint\CabInvoiceGenerator.dll
+D:\C#\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.pdb
+D:\C#\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.genruntimeconfig.cache
+D:\C#\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\ref\CabInvoiceGenerator.dll
